@@ -32,12 +32,12 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*_CEW-yHeEqYtSzbDG7sebw.gif"  />
+<img style="padding-bottom: 10px;" align="right" height="150" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*_CEW-yHeEqYtSzbDG7sebw.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshshukla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshshukla&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrshshukla&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
