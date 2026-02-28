@@ -90,8 +90,8 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="431" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif"  />
+<div align="center">
+  <img height="447" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif"  />
 </div>
 
 ###
