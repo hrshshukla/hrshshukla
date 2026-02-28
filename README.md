@@ -88,7 +88,7 @@
 
 ###
 
-<img align="right" height="170" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*_CEW-yHeEqYtSzbDG7sebw.gif"  />
+<img align="right" height="160" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*_CEW-yHeEqYtSzbDG7sebw.gif"  />
 
 ###
 
